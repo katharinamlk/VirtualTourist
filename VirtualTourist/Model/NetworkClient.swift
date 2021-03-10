@@ -12,8 +12,8 @@ class NetworkClient {
 
     
     struct Auth {
-        static let apiKey = "e2eafb7353b3217b57d771486a1be1f4"
-        static let apiSecret = "7dc89fce54149e44"
+        static let apiKey = "Please enter your API-Key"
+        static let apiSecret = "Please enter your API-Secret"
     }
     
     struct LocationInput {
