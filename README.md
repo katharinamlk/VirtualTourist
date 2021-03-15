@@ -10,8 +10,9 @@ The pins, as well as the images are saved automatically in Core Data.
 
 ### How to use VirtualTourist?
 1. Clone/Download the repo
-2.Open `VirtualTourist.xcoderj` in Xcode
-3. Build & Run!
+2. Open `VirtualTourist.xcoderj` in Xcode
+3. Open `NetworkClient.swift` and add your own flickr APIKey and APISecret. If you don't have one yet, visit [flickr App Garden](https://www.flickr.com/services/apps/create/apply/) to request a free APIKey
+4. Build & Run!
 
 ### What does VirtualTourist look like?
 * Set Pins with a long tap on the map
